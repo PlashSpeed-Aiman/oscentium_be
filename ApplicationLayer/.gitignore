@@ -1,2 +1,9 @@
 ﻿./bin/*
 ./obj/*
+/bin/Debug/net8.0/ApplicationLayer.deps.json
+/bin/Debug/net8.0/ApplicationLayer.dll
+/bin/Debug/net8.0/ApplicationLayer.pdb
+/bin/Debug/net8.0/DomainLayer.dll
+/bin/Debug/net8.0/DomainLayer.pdb
+/bin/Debug/net8.0/InfrastructureLayer.dll
+/bin/Debug/net8.0/InfrastructureLayer.pdb

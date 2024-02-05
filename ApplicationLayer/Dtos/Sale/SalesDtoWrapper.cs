@@ -1,0 +1,2 @@
+﻿namespace ApplicationLayer.Dtos.Sale;
+
